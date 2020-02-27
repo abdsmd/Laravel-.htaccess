@@ -1,0 +1,2 @@
+# Laravel-.htaccess
+Laravel .htaccess
