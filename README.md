@@ -1,4 +1,3 @@
 # Laravel-.htaccess
 Laravel .htaccess
-
-` Block . files
+Block . files
